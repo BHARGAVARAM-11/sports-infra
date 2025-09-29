@@ -1,0 +1,19 @@
+# Python virtual environments
+venv/
+venv_app/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+*.env
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Any logs
+*.log
+
