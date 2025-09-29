@@ -17,3 +17,6 @@ __pycache__/
 # Any logs
 *.log
 
+.terraform/
+*.tfstate
+*.tfstate.backup
